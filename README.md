@@ -3,7 +3,7 @@
 This repository demonstrates a pipeline for building a breast cancer detection model. The goal is to achieve high accuracy (F1 > 0.95) and provide visualization for error analysis and interpretability.
 
 ## Folder Structure
-'''
+```
 BREAST_CANCER_MODEL
 ├── data
 │   ├── processed
@@ -35,7 +35,7 @@ BREAST_CANCER_MODEL
 │   └── preprocessing.py
 └── requirements.txt
 └── README.txt
-'''
+```
 
 ### `data/`
 - **raw/** contains the original dataset (`Data for Task 1.csv`).
